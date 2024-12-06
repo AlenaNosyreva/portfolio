@@ -1,0 +1,39 @@
+.greetings{
+  padding: 0 10px 0 10px;
+}
+.greetings__text{
+  margin: 280px 0 30px 0;
+  font-size: 20px;
+  line-height: 26px;
+  color: rgb(248, 224, 224);
+}
+
+.greetings__title{
+  font-size: 80px;
+  line-height: 70px;
+  color: rgb(242, 118, 151);
+  -webkit-text-stroke: 0.5px  #000;
+}
+
+@media (max-width: 1199px) {
+  .greetings__text{
+    margin: 280px 0 30px 0;
+  }
+
+  .greetings__title{
+    font-size: 60px;
+  }
+}
+
+@media (max-width: 768px) {
+  .greetings__text{
+    font-size: 15px;
+    line-height: 19px;
+    margin: 220px 0 30px 0;
+  }
+
+  .greetings__title{
+    font-size: 40px;
+    line-height: 47px;
+  }
+}
