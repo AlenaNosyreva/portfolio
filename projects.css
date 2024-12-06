@@ -14,15 +14,15 @@
 }
 
 .project__metrica{
-  background-image: url(/resources/project_metrica.png);
+  background-image: url(project_metrica.png);
 }
 
 .project__nothing{
-  background-image: url(/resources/project__nothing.png);
+  background-image: url(project__nothing.png);
 }
 
 .project__toptrip{
-  background-image: url(/resources/project__toptrip.png);
+  background-image: url(project__toptrip.png);
 }
 
 .project__bubble{
