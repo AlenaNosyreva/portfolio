@@ -1,11 +1,11 @@
-@import"/styles/header.css";
-@import"/styles/burger.css";
-@import"/styles/greetings.css";
-@import"/styles/projects.css";
-@import"/styles/skills.css";
-@import"/styles/services.css";
-@import"/styles/communication.css";
-@import"/styles/footer.css";
+@import"header.css";
+@import"burger.css";
+@import"greetings.css";
+@import"projects.css";
+@import"skills.css";
+@import"services.css";
+@import"communication.css";
+@import"footer.css";
 
 html {
     scroll-behavior: smooth;
@@ -23,7 +23,7 @@ body{
 .image-full-width{  
     max-width: 1400px;
     height: 765px;
-    background-image: url(/resources/image-full-width.jpg);
+    background-image: url(image-full-width.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
